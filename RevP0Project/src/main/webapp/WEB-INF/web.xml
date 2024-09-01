@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://jakarta.ee/xml/ns/jakartaee" xsi:schemaLocation="https://jakarta.ee/xml/ns/jakartaee https://jakarta.ee/xml/ns/jakartaee/web-app_6_0.xsd" id="WebApp_ID" version="6.0">
+     <!--<display-name>RevP0Project</display-name>
+ 
+   <servlet>
+     <servlet-name>ProductController</servlet-name>
+     <servlet-class>Controller.ProductController</servlet-class>
+    </servlet> 
+
+     <servlet-mapping>
+     <servlet-name>ProductController</servlet-name>
+     <url-pattern>/Product</url-pattern>
+    </servlet-mapping> 
+    
+    <servlet>
+    <servlet-name>UserController</servlet-name>
+    <servlet-class>Controller.UserController</servlet-class>
+    </servlet>  
+    
+    <servlet-mapping>
+    <servlet-name>UserController</servlet-name>
+    <url-pattern>/Users/</url-pattern>
+    </servlet-mapping>  
+    
+     <servlet>
+    <servlet-name>SellerController</servlet-name>
+    <servlet-class>Controller.SellerController</servlet-class>
+    </servlet>  
+    
+    <servlet-mapping>
+    <servlet-name>SellerController</servlet-name>
+    <url-pattern>/Seller/</url-pattern>
+    </servlet-mapping> 
+    
+    
+      <servlet>
+    <servlet-name>OrdersController</servlet-name>
+    <servlet-class>Controller.OrdersController</servlet-class>
+    </servlet>  
+    
+     <servlet-mapping>
+    <servlet-name>OrdersController</servlet-name>
+    <url-pattern>/Orders</url-pattern>
+    </servlet-mapping>   -->
+     
+</web-app>
